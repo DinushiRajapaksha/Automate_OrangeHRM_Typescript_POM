@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,//to csv fix csv error
+     "target": "es5",
+     "lib": ["es5", "dom"],
+     "types": ["cypress"],
+    // "types": ["cypress", "cypress-xpath","@testing-library/cypress"]
+  
+   },
+  
+   "include": ["**/*.ts"]
+  
+  
+  
+  }
